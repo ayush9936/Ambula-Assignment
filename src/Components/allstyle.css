@@ -1,0 +1,13 @@
+/* home page css start here */
+.home .text{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+       
+      
+}
+
+.text h2{
+    margin-top: 10px;
+}
