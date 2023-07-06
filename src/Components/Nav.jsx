@@ -42,18 +42,23 @@ const Nav = () => {
         </NavLink>
           </li>
           <li className="nav-item me-5">
-            <NavLink className="nav-link" to="/skill">
-            Skills
+            <NavLink className="nav-link" to="/todo">
+            To-Do
         </NavLink>
           </li>
           <li className="nav-item me-5">
-            <NavLink className="nav-link" to="/project">
-            Project
+            <NavLink className="nav-link" to="/product">
+            AddCart
         </NavLink>
           </li>
           <li className="nav-item me-5">
             <NavLink className="nav-link" to="/contact">
             Contact
+        </NavLink>
+          </li>
+          <li className="nav-item me-5">
+            <NavLink className="nav-link" to="/api">
+            News
         </NavLink>
           </li>
         </ul>
